@@ -1,3 +1,5 @@
+Lembrar de mudar o LocalHost dependendo do dispositivo
+
 Tutorial JavaScript
 https://docs.google.com/document/d/1mJmeqEQgsA4MnruJ0Hnf0267PjpoLGrmZ1RmWDHiSVA/edit?usp=sharing
 
