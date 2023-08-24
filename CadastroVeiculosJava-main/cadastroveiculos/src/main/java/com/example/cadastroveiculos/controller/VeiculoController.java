@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import org.springframework.http.ResponseEntity;
-@CrossOrigin(origins = "http://localhost:5173")//Endereço do front
+@CrossOrigin(origins = "http://127.0.0.1:5173")//Endereço do front
 @RestController
 @RequestMapping("/veiculos")
 public class VeiculoController {
